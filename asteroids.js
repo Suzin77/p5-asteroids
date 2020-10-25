@@ -1,4 +1,4 @@
-let canvasW = 800;
+let canvasW = 1200;
 let canvasH = 800;
 
 var ship;
