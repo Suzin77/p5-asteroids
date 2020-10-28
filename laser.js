@@ -25,4 +25,8 @@ function Laser(spos, angle){
         if(this.pos.y > height || this.pos.y < 0 ){return true;}
         return false;
     }
+
+    this.color = function (){
+        console.log('dupdupa');
+    }
 }
